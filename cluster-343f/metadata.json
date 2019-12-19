@@ -1,0 +1,1 @@
+{"clusterName":"cluster-343f","clusterID":"14953e19-fd34-49d0-b8ce-d83584319d36","infraID":"cluster-343f-8fjkj","aws":{"region":"eu-central-1","identifier":[{"kubernetes.io/cluster/cluster-343f-8fjkj":"owned"},{"openshiftClusterID":"14953e19-fd34-49d0-b8ce-d83584319d36"}]}}
